@@ -1,10 +1,14 @@
 
-<h1 align="center"><img src="https://github.com/AsynMakesCode/AsynMakesCode/blob/main/akselav-cat.gif?raw=true" width="40%"><br>hiya!</h1>
+<h1 align="center"><img src="https://github.com/AsynMakesCode/AsynMakesCode/blob/main/akselav-cat.gif?raw=true" width="40%"><br>Hi!!!</h1>
 <p align="center">Im <i><b>Asyn</i></b> AKA crimson. <br> Code is fun <i><b>(Maybe idk.) </i></b><br><br>
+
+<center><span style="font-size: 0.8em">just a femboy who codes alr bro?</span></center> 
 
 <br><br>
 
-
+<p align="center">ABOUT ME:</p>
+<p align="center">14 y.o.</p>
+<p align="center">🚩Live in Russia. Ivanovo</p>
 
 <br>
 <p align="center">
