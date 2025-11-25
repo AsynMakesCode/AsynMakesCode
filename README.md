@@ -1,6 +1,6 @@
 
-
-<p align="center" ![Image](https://github.com/user-attachments/assets/f4cb5696-4f48-4043-8b53-7e58f9f0b742)></p>
+<h1 align="center"><img src=
+![Image](https://github.com/user-attachments/assets/f4cb5696-4f48-4043-8b53-7e58f9f0b742)>
 <p align="center">Im Asyn AKA crimson. <br>Code is fun (Maybe, idk). </i><br><br>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>  
@@ -87,8 +87,8 @@ favorite game: <a href="https://store.steampowered.com/app/1177980/Little_Kitty_
 
 <p align="center">  
 <br><br><a href="https://github.com/iiDk-the-actual/iiDk-the-actual/pulls">make a pr and add more silly gifs!! i will accept literally everything</a>
-</p>![Image](https://github.com/user-attachments/assets/f4cb5696-4f48-4043-8b53-7e58f9f0b742)
-<p align="center">Im Asyn AKA crimson. <br>Code is fun (Maybe, idk). </i><br><br>
+</p> width="40%"><br>hiya!</h1>
+<p align="center">Im <i><b>Asyn</i></b> AKA crimson. <br> Code is fun <i><b>(Maybe idk.) </i></b><br><br>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>  
 </a>  
